@@ -1,6 +1,6 @@
 # Árbol Interactivo con React y TypeScript
 
-Este es un proyecto de ejemplo donde se implementa un **gestor de árbol interactivo** utilizando **React**, **TypeScript** y **Material UI**. El árbol es completamente editable, permitiendo agregar y eliminar nodos, así como colapsar o expandir cada rama. Los cambios en el árbol se guardan en `localStorage` para mantener el estado entre sesiones.
+Este es un proyecto donde se implementa un **gestor de árbol interactivo** utilizando **React** y **TypeScript**. El árbol es completamente editable, permitiendo agregar y eliminar nodos, así como colapsar o expandir cada rama. Los cambios en el árbol se guardan en `localStorage` para mantener el estado entre sesiones.
 
 ## Características
 
@@ -10,3 +10,14 @@ Este es un proyecto de ejemplo donde se implementa un **gestor de árbol interac
 - **Interfaz moderna**: Diseño atractivo usando Material UI, con animaciones suaves al expandir o colapsar nodos.
 
 ## Instalación
+
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/alanleonelfernandez/tree-app.git
+  \```
+
+2. Navega al directorio del proyecto:
+  ```bash
+  cd tree-app 
+  \```
+
