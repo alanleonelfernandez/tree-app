@@ -19,5 +19,16 @@ Este es un proyecto donde se implementa un **gestor de árbol interactivo** util
 2. Navega al directorio del proyecto:
   ```bash
   cd tree-app 
-  \```
+  ```
 
+3. Instala las dependencias:
+   ```
+   npm install
+   ```
+
+4. Ejecuta el proyecto en modo de desarrollo:
+   ```
+   npm run dev
+   ```
+
+El proyecto estará disponible en http://localhost:3000.
