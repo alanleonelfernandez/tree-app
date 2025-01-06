@@ -14,7 +14,7 @@ Este es un proyecto donde se implementa un **gestor de árbol interactivo** util
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/alanleonelfernandez/tree-app.git
-  \```
+   ```
 
 2. Navega al directorio del proyecto:
   ```bash
@@ -22,12 +22,12 @@ Este es un proyecto donde se implementa un **gestor de árbol interactivo** util
   ```
 
 3. Instala las dependencias:
-   ```
+   ```bash
    npm install
    ```
 
 4. Ejecuta el proyecto en modo de desarrollo:
-   ```
+   ```bash
    npm run dev
    ```
 
