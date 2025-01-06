@@ -68,3 +68,11 @@ En el modo vista, el árbol se muestra de forma estática sin permitir cambios, 
 ### Colapsar/Expandir
 
 Puedes colapsar y expandir las ramas del árbol utilizando el botón de expansión (`+/-`), lo que facilita la navegación por árboles grandes.
+
+
+## Autor
+
+Hecho por [@alanleonelfernandez](https://github.com/alanleonelfernandez)
+
+¡Gracias por visitar el proyecto!
+
